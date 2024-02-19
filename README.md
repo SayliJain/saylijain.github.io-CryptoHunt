@@ -9,8 +9,11 @@ Teams, ideally consisting of 4 to 6 members, are encouraged to register for the 
 ## Links to Stages
 
 https://saylijain.github.io/CrytpoHunt/
+
 https://saylijain.github.io/CrytpoHunt/stage_1.html
+
 https://saylijain.github.io/stage_2/
+
 https://saylijain.github.io/stage_3/
 
 
